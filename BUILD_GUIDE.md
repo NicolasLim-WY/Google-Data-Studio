@@ -19,7 +19,7 @@ Reader: Head of ERP. Each month they check headcount and spend against plan, spl
 1. Go to lookerstudio.google.com > Create > Report.
 2. Add data > Google Sheets > your sheet > tab `data`. Tick "Use first row as headers". Click Add.
 3. Open Resource > Manage added data sources > Edit. Check the field types:
-   - Month: Date > Year Month
+   - Month: Date & Time > Date
    - Headcount, External Flag, Planned Cost CHF, Actual Cost CHF: Number, aggregation Sum
    - Planned Cost CHF and Actual Cost CHF: you can set type Currency > CHF
    - All other fields: Text
