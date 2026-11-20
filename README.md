@@ -4,7 +4,7 @@ A one-page dashboard for a Head of ERP. It compares workforce and cost against p
 
 All data is fictional and built for demo purposes. No real company, team, person or vendor data is used.
 
-- Live dashboard: _add your Looker Studio link here_
+- Live dashboard: https://datastudio.google.com/reporting/08e784d3-056f-4207-8609-641beab1bb6e
 - Data: `data/workforce_costs_2026.csv` (48 people, 3 sites, Jan to Oct 2026, CHF)
 - Build steps: `BUILD_GUIDE.md`
 - Demo talk track: `DEMO_SCRIPT.md`
